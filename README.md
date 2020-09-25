@@ -3,4 +3,4 @@
 [Git-HubSync](https://github.com/iquiw/git-hubsync)
 
 Branch: `no-ff`
-Revision: 1
+Revision: 2

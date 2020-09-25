@@ -2,4 +2,5 @@
 
 [Git-HubSync](https://github.com/iquiw/git-hubsync)
 
-Hello, World
+Branch: `deleted`
+Revision: 1

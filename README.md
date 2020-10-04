@@ -2,5 +2,5 @@
 
 [Git-HubSync](https://github.com/iquiw/git-hubsync)
 
-Branch: `deleted`
+Branch: `push-remote`
 Revision: 1

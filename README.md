@@ -2,5 +2,5 @@
 
 [Git-HubSync](https://github.com/iquiw/git-hubsync)
 
-Branch: `push-remote`
+Branch: `new`
 Revision: 1
